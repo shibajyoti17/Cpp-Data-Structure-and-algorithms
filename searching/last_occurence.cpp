@@ -4,7 +4,7 @@
    INPUTS: -> The number of elements in the array
            -> All elements seperated by a newline
 	   -> The item to be searched
-   OUTPUTS: -> First index(0-based) of the searched element
+   OUTPUTS: -> Last index(0-based) of the searched element
                in the input array
 */
 //////////// Maintenance History ////////////////////////////////
